@@ -13,3 +13,5 @@ int main(){
 	int x = 3;
 	fun(x);
 }
+
+//tail recursive function
